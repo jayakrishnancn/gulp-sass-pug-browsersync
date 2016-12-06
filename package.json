@@ -24,5 +24,19 @@
   "bugs": {
     "url": "https://github.com/jayakrishnancn/gulp-sass-pug-browsersync/issues"
   },
-  "homepage": "https://github.com/jayakrishnancn/gulp-sass-pug-browsersync#readme"
+  "homepage": "https://github.com/jayakrishnancn/gulp-sass-pug-browsersync#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jsbeautifier": "^2.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0"
+  }
 }
