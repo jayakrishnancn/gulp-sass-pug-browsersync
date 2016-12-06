@@ -1,0 +1,28 @@
+{
+  "name": "gulp-sass-pug-browsersync",
+  "version": "1.0.0",
+  "description": "A starter project for gulp-sass-pug-browsersync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayakrishnancn/gulp-sass-pug-browsersync.git"
+  },
+  "keywords": [
+    "browsersync",
+    "pug",
+    "sass",
+    "gulp",
+    "imagemin",
+    "html-minifier",
+    "jsbeautifier"
+  ],
+  "author": "jayakrishnancn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayakrishnancn/gulp-sass-pug-browsersync/issues"
+  },
+  "homepage": "https://github.com/jayakrishnancn/gulp-sass-pug-browsersync#readme"
+}
